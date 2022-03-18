@@ -2,7 +2,7 @@
 - 👀 I’m interested in yrityssovellusten koodausratkaisuista, sekä sovelluksista itsessään.
 - 🌱 I’m currenty working toimitusjohtajana, on company named epecutuning.
 - 💞️ I’m currently looking collabration and workers rakentamaan verkkosivustosisältöä, sekä yrityssovellusratkaisuja meille.
-- 📫 How to reach me, käytä sähköpostia, työasioissa vastaan osoitteessa valtteri.muranen@epecutuning.fi.
+- 📫 How to reach me, käytä sähköpostia, työasioissa valtteri.muranen@epecutuning.fi.
 
 <!---
 VMuranen/VMuranen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
