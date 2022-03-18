@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Valtteri Muranen, Suomesta.
-- 👀 I’m interested in yrityssovellusten koodausratkaisuista, sekä sovelluksista itsessään.
-- 🌱 I’m currenty working toimitusjohtajana, on company named epecutuning.
-- 💞️ I’m currently looking collabration and workers rakentamaan verkkosivustosisältöä, sekä yrityssovellusratkaisuja meille.
-- 📫 How to reach me, käytä sähköpostia, työasioissa valtteri.muranen@epecutuning.fi.
+- 👀 Olen kiinnostunut yrityssovellusten koodausratkaisuista, sekä sovelluksista itsessään.
+- 🌱 Työskentelen tällä hetkellä toimitusjohtajana, yrityksessä nimeltä epecutuning.
+- 💞️ Etsin tällä hetkellä ammattilaisia ja ammattilaisiin opiskelevia rakentamaan verkkosivustosisältöä, sekä yrityssovellusratkaisuja meille.
+- 📫 Tavoitat minut käyttämällä sähköpostia, työasioissa valtteri.muranen@epecutuning.fi.
 
 <!---
 VMuranen/VMuranen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
